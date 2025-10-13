@@ -1,6 +1,7 @@
 # 👋 Merhaba, ben Yafes
-*
-                                                   ![Banner](https://static.wikia.nocookie.net/scream/images/a/a5/Ghostface-Profile.jpg/revision/latest/scale-to-width-down/268?cb=20241206125754)
+
+  ![Banner](https://static.wikia.nocookie.net/scream/images/a/a5/Ghostface-Profile.jpg/revision/latest/scale-to-width-down/268?cb=20241206125754)
+                                                
 
 🚀 **Trading** ile uğraşıyorum ve aynı zamanda **yazılım okuluna** başladım.  
 Hedefim: **Siber güvenlik uzmanı** olmak ve kendi trading sistemlerimi geliştirmek.
