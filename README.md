@@ -31,9 +31,9 @@ Hedefim: **Siber güvenlik uzmanı** olmak ve kendi trading sistemlerimi gelişt
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Yafes'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=osco112&show_icons=true&theme=radical)  
+![Yafes'ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=yafes0&show_icons=true&theme=radical)  
 
-![Yafes'ın Diller Grafiği](https://github-readme-stats.vercel.app/api/top-langs/?username=osco112&layout=compact&theme=radical)
+![Yafes'ın Diller Grafiği](https://github-readme-stats.vercel.app/api/top-langs/?username=yafes0&layout=compact&theme=radical)
 
 ---
 
@@ -49,3 +49,4 @@ Hedefim: **Siber güvenlik uzmanı** olmak ve kendi trading sistemlerimi gelişt
 - 🌐 **Kişisel site:** (yakında)  
 - 💬 **LinkedIn:** (yakında)  
 - 📩 **E-posta:** yafesarslan31@gmail.com
+-  🅾 **𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦** 0yafes
