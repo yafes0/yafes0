@@ -19,15 +19,6 @@ Hedefim: **Siber güvenlik uzmanı** olmak ve kendi trading sistemlerimi gelişt
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![TradingView](https://img.shields.io/badge/-TradingView-1E1E1E?logo=tradingview&logoColor=blue)
-
----
-
-### 🌟 Projelerim
-- [Forex Analiz Botu](#) - ICT stratejisi ile otomatik analiz  
-- [Siber Güvenlik Lab Projesi](#) - Eğitim amaçlı laboratuvar çalışmaları  
-
-*(Projelerin linklerini ve açıklamalarını ekleyebilirsin)*
-
 ---
 
 ### 📊 GitHub İstatistiklerim
