@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Yafes
 
-  ![Banner](https://www.google.com/search?client=ms-android-samsung-ss&hs=tSkU&sca_esv=4b6fd4b69e4fa74a&sxsrf=ANbL-n4a4c4jZPvc9k6kHaaXc9sRrm2ppw:1771999172912&udm=2&fbs=ADc_l-YoydaI8HLbRDKjRB--9FV-xsGdNhmP_lsogb_1Kfid95J0zi-j2ek-xIupYJ2Ja4_l-tXZPyc0bGCnL5mi1EssVtdyeBNBE0uwoBZ92JH0B-EbFJRrQi-uym6E9LtABhBcTtP5VIBcVYZUUO9DgGEM1jsS9ijIFk64pl6LiUVUGUDlFk5wHmFSZaRbMN77V65c0b9bA00RnIUhOa83o72ojKxkB60kxZH2iMSPeOY-KiZZk0P6KkHBf4gR8acatDpC4S9Y6kOHhvDdJ34XNYJYO5mjDQ&q=falling+lucifer&sa=X&ved=2ahUKEwjAnvmp-_OSAxVqZ_EDHYQAH3gQtKgLegQIFBAB&biw=384&bih=731&dpr=2.81#vhid=CnrpxYyCVrA4jM&vssid=mosaic)
+  ![Banner](https://share.google/images/zX6aeRkxPmmeBsSOW)
                                      
 
 🚀 **Trading** ile uğraşıyorum ve aynı zamanda **yazılım okuluna** başladım.  
