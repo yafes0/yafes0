@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Yafes
 
-  ![Banner](https://share.google/images/zX6aeRkxPmmeBsSOW)
+  ![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YuZ2MPqqsZOqBCg9RXbM2ksf6zJz2ra4fg&s)
                                      
 
 🚀 **Trading** ile uğraşıyorum ve aynı zamanda **yazılım okuluna** başladım.  
